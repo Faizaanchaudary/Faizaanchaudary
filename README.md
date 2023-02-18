@@ -1,4 +1,4 @@
-![logo](https://github.com/Faizaanchaudary/Faizaanchaudary/blob/main/Screenshot%202023-02-16%20154758.png)
+![logo](https://github.com/Faizaanchaudary/Faizaanchaudary/blob/main/programmer-wallpaper-preview.png)
 <h1 align="center">Hi 👋, I'm Faizan Abbas</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
