@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Faizan Abbas</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizaanchaudary&label=Profile%20views&color=0e75b6&style=flat" alt="Faizaanchaudary" /> </p>
 
-<p align="left"> <img src="https://github.com/Faizaanchaudary/Faizaanchaudary/blob/main/fotor_2023-2-18_23_40_2.png" alt="faizaanchaudary" /> </p>
 
 <p align="left"> <a href="https://twitter.com/punisherx420" target="blank"><img src="https://img.shields.io/twitter/follow/punisherx420?logo=twitter&style=for-the-badge" alt="punisherx420" /></a> </p>
 
